@@ -1,0 +1,9 @@
+com\ibm\learning\web\DeleteServlet.class
+com\ibm\learning\entity\Brand.class
+com\ibm\learning\web\SelectByIdServlet.class
+com\ibm\learning\service\BrandService.class
+com\ibm\learning\dao\BrandMapper.class
+com\ibm\learning\utils\SqlSessionFactoryUtils.class
+com\ibm\learning\web\SelectAllServlet.class
+com\ibm\learning\web\UpdateServlet.class
+com\ibm\learning\web\addServlet.class
